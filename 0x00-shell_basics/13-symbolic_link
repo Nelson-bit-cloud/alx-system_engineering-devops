@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls _ _ls_ _
+ln -s /bash/ls link_to_ls
